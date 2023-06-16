@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Atuando como Front-end na Stric Pagamentos<br>🤝🏽 Busco colaborar em projetos Javascript<br>🤙 Sempre disponível para ajudar em duvidas<br>🌱 Atualmente aprendendo Kafka<br>🫂 Trabalho Voluntário na ![Vai na web](https://vainaweb.com.br)<br>⚡ Aprendendo a tocar Violão
+💻 Atuando como Front-end na Stric Pagamentos<br>🤝🏽 Busco colaborar em projetos Javascript<br>🤙 Sempre disponível para ajudar em duvidas<br>🌱 Atualmente aprendendo Angular<br>🫂 Trabalho Voluntário na ![Vai na web](https://vainaweb.com.br)<br>⚡ Aprendendo a tocar Violão
 
 
 ## 🌐 Socials:
