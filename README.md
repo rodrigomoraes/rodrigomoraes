@@ -1,4 +1,5 @@
 <h1 align="center">Olá dev 👋 Sou Rodrigo</h1>
+
 - 🔭 I’m currently working on **React, React-Native and Angular**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🌱 I’m currently learning **NGRX, Kafka**
